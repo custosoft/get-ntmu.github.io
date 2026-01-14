@@ -15,7 +15,7 @@ NOTE: When done applying, head up top on the "Tools" menu, select "Clear Icon Ca
 ***Version 1.0.1***
 
 CHANGES FROM 1.0.0 **(Updated by Custosoft)**:
-- Added Shutdown Dialog
+- Added Shutdown Dialog (Thanks to R.O.B. and MrAmayosken)
 - Added Bitmap for Enterprise Edition
 
 Enjoy!
