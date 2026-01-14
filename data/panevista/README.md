@@ -12,4 +12,10 @@ This pack includes general resources from Windows Vista, for Windows 10. en-US (
 
 NOTE: When done applying, head up top on the "Tools" menu, select "Clear Icon Cache", and preferably reboot your machine to see all the changes.
 
+***Version 1.0.1***
+
+CHANGES FROM 1.0.0 **(Updated by Custosoft)**:
+- Added Shutdown Dialog
+- Added Bitmap for Enterprise Edition
+
 Enjoy!
